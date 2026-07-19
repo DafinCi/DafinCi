@@ -71,7 +71,7 @@ I believe software should not only work, but also create meaningful impact.
 
 ## GitHub Stats
 
-<div align="center">
+<div align="start">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DafinCi&show_icons=true&theme=transparent&hide_border=true" />
 
@@ -85,7 +85,7 @@ I believe software should not only work, but also create meaningful impact.
 
 ## Connect With Me
 
-<div align="center">
+<div align="start">
 
 <a href="https://www.instagram.com/_elfarizi/">
 <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
