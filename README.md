@@ -78,4 +78,8 @@ I believe software should not only work, but also create meaningful impact.
 <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
 </a>
 
+<a href="https://discordapp.com/users/1059153148054360184">
+<img src="https://skillicons.dev/icons?i=discord" width="40"/>
+</a>
+
 </div>
