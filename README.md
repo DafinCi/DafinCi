@@ -1,17 +1,8 @@
-
+ <p align="center">
+  <img src="./assets/header.gif" alt="DafinCi header"/>
+</p>
 
 <div align="start">
- 
-<pre style="font-size: 8px;">
-    /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$$        /$$      /$$  /$$$$$$  /$$$$$$$  /$$   /$$ /$$$$$$ /$$   /$$  /$$$$$$  /$$
- /$$__  $$ /$$__  $$ /$$__  $$| $$__  $$      | $$$    /$$$ /$$__  $$| $$__  $$| $$$ | $$|_  $$_/| $$$ | $$ /$$__  $$| $$
-| $$  \__/| $$  \ $$| $$  \ $$| $$  \ $$      | $$$$  /$$$$| $$  \ $$| $$  \ $$| $$$$| $$  | $$  | $$$$| $$| $$  \__/| $$
-| $$ /$$$$| $$  | $$| $$  | $$| $$  | $$      | $$ $$/$$ $$| $$  | $$| $$$$$$$/| $$ $$ $$  | $$  | $$ $$ $$| $$ /$$$$| $$
-| $$|_  $$| $$  | $$| $$  | $$| $$  | $$      | $$  $$$| $$| $$  | $$| $$__  $$| $$  $$$$  | $$  | $$  $$$$| $$|_  $$|__/
-| $$  \ $$| $$  | $$| $$  | $$| $$  | $$      | $$\  $ | $$| $$  | $$| $$  \ $$| $$\  $$$  | $$  | $$\  $$$| $$  \ $$    
-|  $$$$$$/|  $$$$$$/|  $$$$$$/| $$$$$$$/      | $$ \/  | $$|  $$$$$$/| $$  | $$| $$ \  $$ /$$$$$$| $$ \  $$|  $$$$$$/ /$$
- \______/  \______/  \______/ |_______/       |__/     |__/ \______/ |__/  |__/|__/  \__/|______/|__/  \__/ \______/ |__/
-</pre>
 
 # DafinCi
 
@@ -29,8 +20,6 @@ I'm a Computer Science student who builds software to solve real-world problems.
 
 I enjoy creating SaaS products, developer tools, and experimenting with emerging technologies such as LLM integration and blockchain.
 
-I believe software should not only work, but also create meaningful impact.
-
 ---
 
 ## Currently Building
@@ -47,8 +36,7 @@ I believe software should not only work, but also create meaningful impact.
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,postgres,supabase,git,vscode" />
 
-</div>
----
+## </div>
 
 ## GitHub Stats
 
