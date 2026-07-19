@@ -41,7 +41,7 @@ I believe software should not only work, but also create meaningful impact.
 
 ## Tech Stack
 
-<div align="center">
+<div align="start">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,postgres,supabase,git,vscode" />
 
