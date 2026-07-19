@@ -52,8 +52,6 @@ I enjoy creating SaaS products, developer tools, and experimenting with emerging
 
 <img src="https://github-readme-stats.vercel.app/api?username=DafinCi&show_icons=true&theme=transparent&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafinCi&layout=compact&theme=transparent&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DafinCi&theme=transparent&hide_border=true" />
 
 </div>
