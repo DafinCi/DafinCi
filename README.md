@@ -1,28 +1,8 @@
-<pre>
- /$$   /$$ /$$$$$$       /$$$$$$$$ /$$   /$$ /$$$$$$$$ /$$$$$$$  /$$$$$$$$ /$$
-| $$  | $$|_  $$_/      |__  $$__/| $$  | $$| $$_____/| $$__  $$| $$_____/| $$
-| $$  | $$  | $$           | $$   | $$  | $$| $$      | $$  \ $$| $$      | $$
-| $$$$$$$$  | $$           | $$   | $$$$$$$$| $$$$$   | $$$$$$$/| $$$$$   | $$
-| $$__  $$  | $$           | $$   | $$__  $$| $$__/   | $$__  $$| $$__/   |__/
-| $$  | $$  | $$           | $$   | $$  | $$| $$      | $$  \ $$| $$          
-| $$  | $$ /$$$$$$         | $$   | $$  | $$| $$$$$$$$| $$  | $$| $$$$$$$$ /$$
-|__/  |__/|______/         |__/   |__/  |__/|________/|__/  |__/|________/|__/
- 
-</pre>
-
-<div align="start">
-
-# DafinCi
-
-**Software Engineer**
-
-Building scalable SaaS products and developer tools.
-
+<div align="center">
+  <img src="./assets/dafinci2.png" alt="DafinCi Banner" width="100%" />
 </div>
 
----
-
-## About Me
+## Hi There!
 
 I'm a Computer Science student who builds software to solve real-world problems.
 
