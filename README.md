@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/dafinci2.png" alt="DafinCi Banner" width="100%" />
+  <img src="./assets/dafinci3.png" alt="DafinCi Banner" width="100%" />
 </div>
 
 ## Hi There!
