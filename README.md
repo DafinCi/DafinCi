@@ -44,5 +44,3 @@ I enjoy creating SaaS products, developer tools, and experimenting with emerging
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DafinCi&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
-
-![Profile views](https://komarev.com/ghpvc/?username=DafinCi)
