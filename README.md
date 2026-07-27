@@ -2,14 +2,6 @@
   <img src="./assets/dafinci4.png" alt="DafinCi Banner" width="100%" />
 </div>
 
-## Hi There!
-
-I'm a Computer Science student who builds software to solve real-world problems.
-
-I enjoy creating SaaS products, developer tools, and experimenting with emerging technologies such as LLM integration and blockchain.
-
----
-
 ## Currently Building
 
 - AI-powered applications with LLM integration
