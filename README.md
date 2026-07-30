@@ -2,14 +2,6 @@
   <img src="./assets/dafinci4.png" alt="DafinCi Banner" width="100%" />
 </div>
 
-## Currently Building
-
-- AI-powered applications with LLM integration
-- Full-stack web applications
-- Scalable SaaS products
-
----
-
 ## Tech Stack
 
 <p align="left">
