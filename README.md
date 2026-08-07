@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/dafinci4.png" alt="DafinCi Banner" width="100%" />
-</div>
-
 ## Tech Stack
 
 <p align="left">
